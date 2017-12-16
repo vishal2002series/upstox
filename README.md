@@ -1,0 +1,2 @@
+# upstox
+Upstox codes
